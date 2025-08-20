@@ -1,0 +1,14 @@
+{
+  
+  "name": "knc-api",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "api/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "google-news-json": "^2.1.0",
+    "rss-parser": "^3.13.0"
+  }
+}
